@@ -1,4 +1,4 @@
-# Quick Start: see the [Installation](#installation) and [Workflow](#workflow) sections below to get set up and run your first scan.
+## Quick Start: see the [Installation](#installation) and [Workflow](#workflow) sections below to get set up and run your first scan.
 
 # TLS Sweeper
 
